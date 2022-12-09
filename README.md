@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm sohib abed</h1>
 <h3 align="center">software engineer Reactjs developer</h3>
 
-- 🔭 I’m currently working on **Freelancer projects**
+- 🔭 I’m currently As Freelancer and open to work
 
-- 🌱 I’m currently learning **React - The Complete Guide (incl Hooks, React Router, Redux)**
+- 🌱 I learning alwayes
 
 - 💬 Ask me about **Front end, Reactjs**
 
-- 📫 How to reach me **sohibabed13@gmail,com**
+- 📫 How to reach me **sohibabed13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
