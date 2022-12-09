@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently As Freelancer and open to work
 
-- 🌱 I learning alwayes
+
 
 - 💬 Ask me about **Front end, Reactjs**
 
