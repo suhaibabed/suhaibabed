@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Front end, Reactjs**
 
-- 📫 How to reach me **sohibabed13@gmail.com**
+- 📫 How to reach me, **sohibabed13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
