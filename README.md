@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sohib abed</h1>
 <h3 align="center">software engineer Reactjs developer</h3>
 
-- 🔭 I’m currently As Freelancer and open to work
+- 🔭 I’m currently front end developer at shiftIct
 
 
 
